@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container2{
+    position: sticky;
+}
+.container1 marquee{
+    height: 25px;
+    width: 100%;
+    font-style: italic;
+    background-color: black;
+    position: sticky;
+}
+.container2 .container-fluid .Search {
+    width: 1000px;
+    height: 50px;
+    box-shadow: 0px 0px 3px  black;
+    margin-top: 12px;
+    padding-left: 30px;
+}
+.span{  
+    margin-top: 10px;
+    height: 50px;
+    padding-top: 14px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+.display{
+    display: flex;
+    justify-content: flex-end;
+}
+.bg-custom{
+    position: sticky;
+}
+.nav-item {                     /* NAV BAR*/
+    font-size: 20x;
+    margin-left: 15px;
+    padding: 0px 40px 0px; 
+}
+.footer{
+    background-color: black;
+}
+
